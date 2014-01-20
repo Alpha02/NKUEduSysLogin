@@ -1,4 +1,4 @@
-package com.example.nkuedusyslogin;
+package com.hehesoft.nkuedusyslogin;
 
 import android.os.Bundle;
 import android.app.Activity;
@@ -7,6 +7,7 @@ import android.text.Html;
 import android.view.Menu;
 import android.webkit.WebView;
 import android.widget.TextView;
+import com.hehesoft.nkuedusyslogin.R;
 
 public class ShowScoreActivity extends Activity {
 

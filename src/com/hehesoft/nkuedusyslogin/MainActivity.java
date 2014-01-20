@@ -1,4 +1,4 @@
-package com.example.nkuedusyslogin;
+package com.hehesoft.nkuedusyslogin;
 
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -24,6 +24,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
+import com.hehesoft.nkuedusyslogin.R;
 
 public class MainActivity extends Activity {
 

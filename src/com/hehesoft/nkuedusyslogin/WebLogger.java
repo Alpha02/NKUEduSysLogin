@@ -1,4 +1,4 @@
-package com.example.nkuedusyslogin;
+package com.hehesoft.nkuedusyslogin;
 
 import java.io.BufferedReader;
 import java.io.File;
